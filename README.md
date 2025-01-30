@@ -3,10 +3,11 @@ This is the backend for a game I created for fun there's a lot of flaws however 
 
 initialization
 <table>
-    <th> /auth </th>
-  </td>
-  <td>
-    <tr>/login</tr>
-    <tr>/create</tr>
-  </td>
+    <tr>
+        <th>/auth</th>
+    </tr>
+  <tr>
+    <td>/login</td>
+    <td>/create</td>
+  </tr>
 </table>
