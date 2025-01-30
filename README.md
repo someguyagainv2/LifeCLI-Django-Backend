@@ -5,9 +5,11 @@ initialization
 <table>
     <tr>
         <th>/auth</th>
+        <th>/commands</th>
+        <th>/</th>
     </tr>
   <tr>
     <td>/login</td>
-    <td>/create</td>
+    
   </tr>
 </table>
