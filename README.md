@@ -10,7 +10,7 @@ initialization
 
 <hr>
 
-<h2>/commands
+<h2>/commands</h2>
 <ul>
     <li>/beg</li>
     <li>/search</li>
