@@ -93,7 +93,7 @@ JSON Body Response
 </table>
 
 <h3>Error Occuring</h3>
-
+JSON Body Response
 <table>
     <tr>
         <th>JSON Body</th>
@@ -105,3 +105,5 @@ JSON Body Response
         <td>Error</td>
     </tr>
 </table>
+
+<button onclick="alert('d')">d</button>
