@@ -93,6 +93,8 @@ JSON Body Response
     </tr>
     <tr>
         <td>Status</td>
+    </tr>
+    <tr>
         <td>Error</td>
     </tr>
 </table>
