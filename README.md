@@ -61,7 +61,7 @@ BaseURL Example
 ```http://127.0.0.1:8000/auth```
 The auth endpoint handles authentication and can be used to return session IDs, these __sessionIDs__ are crucial for informing the other commands who the person is and checking if it matches up for all of the commands, phone and store endpoint this will rely on a <b>sessionID</b> <u><a href="https://developer.mozilla.org/en-US/docs/Glossary/Request_header">header</a></u>
 
-<h5>/login</h5>
+<h3>/login</h3>
 <table>
     <tr>
         <th>payload (json) </th>
@@ -85,7 +85,7 @@ JSON Body Response
     <li>sessionID</li>
 </ul>
 
-<h5>Error Occuring</h5>
+<h3>Error Occuring</h3>
 
 <ul>
     <li>Status</li>
