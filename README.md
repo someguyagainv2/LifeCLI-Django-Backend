@@ -71,3 +71,5 @@ The auth endpoint handles authentication and can be used to return session IDs, 
         <td>password</td>
     </tr>
 </table>
+
+<div class="right"></div>
