@@ -60,9 +60,14 @@ The auth endpoint handles authentication and can be used to return session IDs, 
 <h2>/login</h2>
 <table>
     <tr>
-        <th>returns</th>
+        <th>payload (json) </th>
+        <th>Method</th>
     </tr>
     <tr>
-        <td>test</td>
+        <td>username</td>
+        <td>POST</td>
+    </tr>
+    <tr>
+        <td>password</td>
     </tr>
 </table>
