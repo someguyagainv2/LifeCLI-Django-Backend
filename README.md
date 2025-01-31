@@ -106,14 +106,6 @@ JSON Body Response
     </tr>
 </table>
 
-<h3>Python Code Example</h3>
-
-~~~
-import requests
-response = requests.post("http://127.0.0.1:8000/auth/login", json={"username": "user", "password": "pass"})
-print(response.text)
-~~~
-
 <h3>Successful Request Response</h3>
 
 ~~~
@@ -122,3 +114,14 @@ print(response.text)
     "sessionID": ""
 }
 ~~~
+<hr>
+
+<h3>Python Code Example</h3>
+
+~~~
+import requests
+response = requests.post("http://127.0.0.1:8000/auth/login", json={"username": "user", "password": "pass"})
+print(response.text)
+~~~
+
+
