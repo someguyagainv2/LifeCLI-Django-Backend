@@ -1,6 +1,13 @@
 # LifeCLI-Django-Backend
 This is the backend for a game I created for fun there's a lot of flaws however this will be improved over time when I get more in to development of stuff such as handling of SQLI techniques and more.
 
+<style>
+  code {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+  }
+</style>
+
 <h1>Table Content</h1>
 initialization
 <h2>/auth endpoint</h2>
@@ -113,9 +120,3 @@ import requests
 response = requests.post("http://127.0.0.1:8000/auth/login", json={"username": "user", "password": "pass"})
 print(response.text)
 </code>
-
-<style>
-code {
-  white-space : pre-wrap !important;
-}
-</style>
