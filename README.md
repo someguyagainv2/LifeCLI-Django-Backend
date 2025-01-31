@@ -80,10 +80,17 @@ The auth endpoint handles authentication and can be used to return session IDs, 
 <b>Response</b>
 
 JSON Body Response
-<ul>
-    <li>Status</li>
-    <li>sessionID</li>
-</ul>
+<table>
+    <tr>
+        <th>Response JSON Body</th>
+    </tr>
+    <tr>
+        <td>Status</td>
+    </tr>
+    <tr>
+        <td>sessionID</td>
+    </tr>
+</table>
 
 <h3>Error Occuring</h3>
 
