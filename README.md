@@ -3,7 +3,7 @@ This is the backend for a game I created for fun there's a lot of flaws however 
 
 <style>
   code {
-    white-space : pre-wrap !important;
+    white-space: pre-wrap !important;
     word-break: break-word;
   }
 </style>
