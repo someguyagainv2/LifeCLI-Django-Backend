@@ -6,6 +6,7 @@ This is the backend for a game I created for fun there's a lot of flaws however 
         width:300px;
         height:300px;
         border: 1px solid black;
+        background-color:green;
     }
 </style>
 
