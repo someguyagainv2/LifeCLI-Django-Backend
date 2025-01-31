@@ -1,6 +1,7 @@
 # LifeCLI-Django-Backend
 This is the backend for a game I created for fun there's a lot of flaws however this will be improved over time when I get more in to development of stuff such as handling of SQLI techniques and more.
 
+<h1>Table Content</h1>
 initialization
 <h2>/auth endpoint</h2>
 <ul>
@@ -49,3 +50,10 @@ initialization
     <li>/deposit</li>
     <li>/withdraw</li>
 </ul>
+
+<h1>auth endpoint</h1>
+
+BaseURL Example
+```http://127.0.0.1:8000/auth```
+The auth endpoint handles authentication and can be used to return session IDs, these __sessionIDs__ are crucial for informing the other commands who the person is and checking if it matches up for all of the commands, phone and store endpoint this will rely on a <b>sessionID> __header__
+
