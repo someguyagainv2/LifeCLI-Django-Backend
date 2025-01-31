@@ -87,7 +87,12 @@ JSON Body Response
 
 <h3>Error Occuring</h3>
 
-<ul>
-    <li>Status</li>
-    <li>Error</li>
-</ul>
+<table>
+    <tr>
+        <th>JSON Body</th>
+    </tr>
+    <tr>
+        <td>Status</td>
+        <td>Error</td>
+    </tr>
+</table>
