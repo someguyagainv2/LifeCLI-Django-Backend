@@ -1,15 +1,6 @@
 # LifeCLI-Django-Backend
 This is the backend for a game I created for fun there's a lot of flaws however this will be improved over time when I get more in to development of stuff such as handling of SQLI techniques and more.
 
-<style>
-    .right {
-        width:300px;
-        height:300px;
-        border: 1px solid black;
-        background-color:green;
-    }
-</style>
-
 <h1>Table Content</h1>
 initialization
 <h2>/auth endpoint</h2>
@@ -60,6 +51,10 @@ initialization
     <li>/withdraw</li>
 </ul>
 
+<h1>Status Codes</h1>
+True: Successful operation of the command
+False: An error occured will be returned in the response
+
 <h1>auth endpoint</h1>
 
 BaseURL Example
@@ -81,6 +76,18 @@ The auth endpoint handles authentication and can be used to return session IDs, 
     </tr>
 </table>
 
-<div class="right">
-    
-</div>
+<hr>
+<b>Response</b>
+
+JSON Body Response
+<ul>
+    <li>Status</li>
+    <li>sessionID</li>
+</ul>
+
+<h2>Error Occuring</h2>
+
+<ul>
+    <li>Status</li>
+    <li>Error</li>
+</ul>
