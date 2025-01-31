@@ -114,6 +114,8 @@ response = requests.post("http://127.0.0.1:8000/auth/login", json={"username": "
 print(response.text)
 </code>
 
+<style>
 code {
   white-space : pre-wrap !important;
 }
+</style>
