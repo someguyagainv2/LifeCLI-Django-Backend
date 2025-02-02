@@ -61,67 +61,6 @@ BaseURL Example
 ```http://127.0.0.1:8000/auth```
 The auth endpoint handles authentication and can be used to return session IDs, these __sessionIDs__ are crucial for informing the other commands who the person is and checking if it matches up for all of the commands, phone and store endpoint this will rely on a <b>sessionID</b> <u><a href="https://developer.mozilla.org/en-US/docs/Glossary/Request_header">header</a></u>
 
-<h3>/login</h3>
-<table>
-    <tr>
-        <th>payload (json) </th>
-        <th>Method</th>
-    </tr>
-    <tr>
-        <td>username</td>
-        <td>POST</td>
-    </tr>
-    <tr>
-        <td>password</td>
-    </tr>
-</table>
 
-<hr>
-<b>Response</b>
-
-JSON Body Response
-<table>
-    <tr>
-        <th>Response JSON Body</th>
-    </tr>
-    <tr>
-        <td>Status</td>
-    </tr>
-    <tr>
-        <td>sessionID</td>
-    </tr>
-</table>
-
-<h3>Error Occuring</h3>
-JSON Body Response
-<table>
-    <tr>
-        <th>JSON Body</th>
-    </tr>
-    <tr>
-        <td>Status</td>
-    </tr>
-    <tr>
-        <td>Error</td>
-    </tr>
-</table>
-
-<h3>Successful Request Response</h3>
-
-~~~
-{
-    "Status": true, 
-    "sessionID": ""
-}
-~~~
-<hr>
-
-<h3>Python Code Example</h3>
-
-~~~
-import requests
-response = requests.post("http://127.0.0.1:8000/auth/login", json={"username": "user", "password": "pass"})
-print(response.text)
-~~~
 
 
