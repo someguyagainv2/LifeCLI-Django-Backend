@@ -6,7 +6,7 @@ initialization
 <h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/auth">/auth endpoint</a></h2>
 <ul>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/auth#login">/login</a></li>
-    <li>/create</li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/blob/main/auth/readme.md#create">/create</a></li>
 </ul>
 
 <hr>
