@@ -5,7 +5,7 @@ This is the backend for a game I created for fun there's a lot of flaws however 
 initialization
 <h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/auth">/auth endpoint</a></h2>
 <ul>
-    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/auth">/login</a></li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/auth#login">/login</a></li>
     <li>/create</li>
 </ul>
 
