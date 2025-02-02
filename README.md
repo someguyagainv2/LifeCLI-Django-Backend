@@ -61,6 +61,12 @@ BaseURL Example
 ```http://127.0.0.1:8000/auth```
 The auth endpoint handles authentication and can be used to return session IDs, these __sessionIDs__ are crucial for informing the other commands who the person is and checking if it matches up for all of the commands, phone and store endpoint this will rely on a <b>sessionID</b> <u><a href="https://developer.mozilla.org/en-US/docs/Glossary/Request_header">header</a></u>
 
+<h1>commands endpoint</h1>
+
+BaseURL Example
+```http://127.0.0.1:8000/commands```
+The commands endpoint, handles main commands behind the user. The commands are related to user specifically so a sessionID will need to be passed for all commands for a euccessful result. <b>sessionID</b> <u><a href="https://developer.mozilla.org/en-US/docs/Glossary/Request_header">header</a></u>
+
 
 
 
