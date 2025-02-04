@@ -57,6 +57,8 @@ response = requests.post("http://127.0.0.1:8000/bank/deposit", json={"Amount": 1
 print(response.text)
 ~~~
 
+<hr>
+
 <h3>/withdraw</h3>
 
 <table>
