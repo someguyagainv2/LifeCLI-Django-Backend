@@ -34,7 +34,7 @@ initialization
 
 <hr>
 
-<h2>/store</h2>
+<h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/store">/store</a></h2>
 
 <ul>
     <li>/buy</li>
