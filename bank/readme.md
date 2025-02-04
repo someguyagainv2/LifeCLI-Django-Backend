@@ -11,9 +11,6 @@
         <td>POST</td>
         <td>SessionID</td>
     </tr>
-    <tr>
-        <td>password</td>
-    </tr>
 </table>
 
 <hr>
