@@ -44,7 +44,7 @@ initialization
 
 <hr>
 
-<h2>/bank</h2>
+<h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/bank">/bank</a></h2>
 
 <ul>
     <li>/deposit</li>
