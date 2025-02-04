@@ -33,6 +33,7 @@ JSON Body Response
 </table>
 
 <h3>Errors</h3>
+
 ~~~
 - No bank account
 - You don't have that much coins to deposit.
