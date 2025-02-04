@@ -11,7 +11,7 @@ initialization
 
 <hr>
 
-<h2>/commands</h2>
+<h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands">/commands</a></h2>
 <ul>
     <li>/beg</li>
     <li>/search</li>
@@ -26,7 +26,7 @@ initialization
 
 <hr>
 
-<h2>/phone</h2>
+<h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/phone">/phone</a></h2>
 <ul>
     <li>backgroundlookup</li>
     <li>createbank</li>
