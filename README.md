@@ -55,13 +55,13 @@ initialization
 True: Successful operation of the command
 False: An error occured will be returned in the response
 
-<h1>auth endpoint</h1>
+<h1>Auth Endpoint</h1>
 
 BaseURL Example
 ```http://127.0.0.1:8000/auth```
 The auth endpoint handles authentication and can be used to return session IDs, these __sessionIDs__ are crucial for informing the other commands who the person is and checking if it matches up for all of the commands, phone and store endpoint this will rely on a <b>sessionID</b> <u><a href="https://developer.mozilla.org/en-US/docs/Glossary/Request_header">header</a></u>
 
-<h1>commands endpoint</h1>
+<h1>Commands Endpoint</h1>
 
 BaseURL Example
 ```http://127.0.0.1:8000/commands```
