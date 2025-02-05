@@ -29,7 +29,7 @@ initialization
 <h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/phone">/phone</a></h2>
 <ul>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/phone#backgroundlookup">/backgroundlookup</a></li>
-    <li>/createbank</li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/phone#createbank">/createbank</a></li>
 </ul>
 
 <hr>
