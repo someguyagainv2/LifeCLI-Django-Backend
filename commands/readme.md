@@ -43,3 +43,13 @@ JSON Body Response
 ~~~
 
 <hr>
+
+<h3>Python Code Example</h3>
+
+~~~
+import requests
+response = requests.post("http://127.0.0.1:8000/commands/beg", headers={"SessionID": "SessionID"})
+print(response.text)
+~~~
+
+<hr>
