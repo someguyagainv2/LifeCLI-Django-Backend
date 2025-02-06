@@ -36,6 +36,7 @@ JSON Body Response
 - You need a basic smartphone or advanced smartphone to run this command,
 - Error Occurred
 - Not enough money in bank
+- SessionID Authorization is incorrect you can get this via /auth/login
 ~~~
 
 <hr>
@@ -92,6 +93,7 @@ JSON Body Response
 ~~~
 - You need a birth certificate as validation to create bank account.
 - You need a basic smartphone or advanced smartphone to run this command.
+- SessionID Authorization is incorrect you can get this via /auth/login
 ~~~
 
 <hr>
@@ -100,6 +102,7 @@ JSON Body Response
 ~~~
 - Status: True
 - Bank account created.
+- SessionID Authorization is incorrect you can get this via /auth/login
 ~~~
 
 <hr>
