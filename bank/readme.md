@@ -34,6 +34,7 @@ JSON Body Response
 ~~~
 - No bank account
 - You don't have that much coins to deposit.
+- SessionID Authorization is incorrect you can get this via /auth/login
 ~~~
 
 <hr>
@@ -92,6 +93,7 @@ JSON Body Response
 ~~~
 - No bank account
 - You don't have that much coins to withdraw
+- SessionID Authorization is incorrect you can get this via /auth/login
 ~~~
 
 <hr>
