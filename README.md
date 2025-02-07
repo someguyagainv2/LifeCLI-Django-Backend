@@ -13,7 +13,7 @@ initialization
 
 <h2><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands">/commands</a></h2>
 <ul>
-    <li>/beg</li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#beg">/beg</a></li>
     <li>/search</li>
     <li>/fish</li>
     <li>/sell</li>
