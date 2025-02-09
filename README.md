@@ -19,7 +19,7 @@ initialization
     <li>/sell</li>
     <li>/inventory</li>
     <li>/rob</li>
-    <li>/pickpocket</li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#pickpocket">/pickpocket</a></li>
     <li>/getbalance</li>
     <li>/bank</li>
 </ul>
