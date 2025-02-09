@@ -15,7 +15,7 @@ initialization
 <ul>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#beg">/beg</a></li>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#search">/search</a></li>
-    <li>/fish</li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#fish">/fish</a></li>
     <li>/sell</li>
     <li>/inventory</li>
     <li>/rob</li>
