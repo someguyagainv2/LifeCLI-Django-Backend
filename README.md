@@ -21,7 +21,7 @@ initialization
     <li>/rob</li>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#pickpocket">/pickpocket</a></li>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/blob/main/commands/readme.md#getbalance">/getbalance</a></li>
-    <li>/bank</li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/blob/main/commands/readme.md#bank">/bank</a></li>
 </ul>
 
 <hr>
