@@ -16,7 +16,7 @@ initialization
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#beg">/beg</a></li>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#search">/search</a></li>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#fish">/fish</a></li>
-    <li>/sell</li>
+    <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/blob/main/commands/readme.md#sell">/sell</a></li>
     <li>/inventory</li>
     <li>/rob</li>
     <li><a href="https://github.com/someguyagainv2/LifeCLI-Django-Backend/tree/main/commands#pickpocket">/pickpocket</a></li>
